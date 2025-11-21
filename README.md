@@ -1,13 +1,8 @@
-# Swiggy orders analyis 
-hi ansj
-knbkcjd
-1. abhinay
-2. jbv,ujk
-3.  lskvn;l
-4.  mnvks
+# Project Background 
+Swiggy, established in 2014, is a e-commerce company that sells food in India via website and mobile app. 
 
-# Over View
-hi im abhinay kumar reddy 
+The company has a significant amounts of data on its sales, marketing efforts, offers and loyalty program that has been perviously underutilized. This project throughly analyzes this data in oreder to uncover critical insights that will imporve swiggy commerical success.
 
-<img width="1130" height="653" alt="Screenshot 2025-11-18 183606" src="https://github.com/user-attachments/assets/57b54071-687e-4656-8c2c-5a7db1e9a74c" />
-[link text](https://app.powerbi.com/view?r=eyJrIjoiOTQ2MGU2ZjMtNjFlNy00OWY4LThlODYtYTUzYjQ1ZDY2MDhjIiwidCI6IjU1OTE4Y2FlLWQ4MGItNGRjMS04OWJjLWUyYWMyY2I3YTY3ZSJ9)
+insights and recommendations are provide on following key areas:
+
+**- Sales Trends Analysis**
