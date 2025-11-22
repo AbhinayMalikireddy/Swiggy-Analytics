@@ -51,8 +51,10 @@ Below is the overview page from PowerBI dashboard and more examples includes in 
 
 Based on the uncovered insights, the following recommendations have been provided:
 
--
-
+- Most of the orders are placed by Students and Employyes with 160k & 92k orders, self employeed and house wife orders very low comapered to students,to attract house wife bring offers on **womens special like dicount 25% on every order, which order having above 1,000 rupees.**
+- In every week saturday's and sunday's orders with 1k and below 1k, **womens special offers active on sunday and saturday so we can increase both the orders and hosue wife sales in Swiggy**.
+- In Swiggy most of the restaurants have 4 star rating, get review from customer who frequently orders and suggest the reviews to restaurants which below 4 star rating in swiggy, so we cannot loss the restaurants and customers.
+- **Continue and push forward the loyalty program**, to convert non-customers into customers, conserding offers in one time sign-up and giving first three orders discount to customer, and for old customers make an offer on saturday's and sunday's to increase orders and we cannot losses the old customers.
 
 
 
