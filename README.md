@@ -11,4 +11,4 @@ insights and recommendations are provide on following key areas:
 
 **- Loyalty Program Success :** An assement of the loyalty program on customer retention and sales.
 
-An interactive Powerbi dashboards can see <a href="https://app.powerbi.com/..." target="_blank">Here</a>
+An interactive Powerbi dashboards can see <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQ2MGU2ZjMtNjFlNy00OWY4LThlODYtYTUzYjQ1ZDY2MDhjIiwidCI6IjU1OTE4Y2FlLWQ4MGItNGRjMS04OWJjLWUyYWMyY2I3YTY3ZSJ9 " target="_blank">Here</a>
