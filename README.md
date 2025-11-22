@@ -5,4 +5,10 @@ The company has a significant amounts of data on its sales, marketing efforts, o
 
 insights and recommendations are provide on following key areas:
 
-**- Sales Trends Analysis**
+**- Sales Trends Analysis :** Calculate sales on region wise, focusing on Revenue and Orders.
+
+**- Regional Comparisons :** An evaluation on sales and orders by region.
+
+**- Loyalty Program Success :** An assement of the loyalty program on customer retention and sales.
+
+An interactive Powerbi dashboards can see <a href="https://app.powerbi.com/..." target="_blank">Here</a>
