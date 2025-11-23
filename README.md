@@ -31,19 +31,18 @@ Below is the overview page from PowerBI dashboard and more examples includes in 
 
 #### Sales Trends:
 
-- The company sales peaked in January 2018 with orders 10640 totaling 43M monthly revenue. In 2020 sales are dropped because pandemic and it changes all customer behavior on online food delivers.
-- Ending in 2018 October declined revenue but orders are maintaining around 10k, from January 2019 to December 2019 both orders and revenue declined, down 14% and 18% respectively.
-- Revenue and orders hit a company lifetime low in June 2020 and full year 2020 has low orders and revenue because of lockdown for covid-19.
-- In August 2019 started dropped and continued to June 2020, but before August 2019 may revenue dropped but maintained consistency in orders.
-
+- January 2018 marked the company’s best performance, with 10,640 orders generating ₹43M in monthly revenue. However, sales dropped significantly in 2020 as the pandemic shifted customer behavior and disrupted the online food delivery market.
+- Despite a decline in revenue toward October 2018, the company managed to maintain order volume at around 10,000 orders, showing strong customer retention. But from January to December 2019, both orders and revenue consistently decreased orders dropped by 14% and revenue declined by 18%.
+- June 2020 recorded the lowest revenue and order volume in the company’s history, and the entire year of 2020 remained weak due to nationwide COVID-19 lockdowns and restricted movement.
+- The downward trend that began in August 2019 continued through June 2020. Prior to August 2019, revenue had already started to decline, but order volume remained fairly stable, indicating early signs of customer value drop despite steady demand.
 <img width="804" height="333" alt="image" src="https://github.com/user-attachments/assets/d530434f-fef7-42d9-96b2-8fcb71e85a78" />
 
 #### Regional Comparsions:
 
-- Below bar chart represent the top 5 city using revenue.
-- Clearly Tirupati is dominating by revenue and Bangalore having highest restaurants than Tirupati, Even Bangalore having higest restaurants but still it not making revenue.
-- Other city are having very low revenue compare to top 5 city, In 2018 and 2019 Tirupati is dominating in revenue even less restaurants in Tirupati because it is a tourism place in Andhra Pradesh.
-- In Bareilly and Sultanpur both from Uttar Pradesh are leading top 1 position in 2017 and 2020. Bareilly having higest restaurants count compare to the Sultanpur. 
+- The bar chart represents the top 5 cities ranked by revenue.
+- Tirupati clearly dominates in revenue. Although Bangalore has a higher number of restaurants than Tirupati, it still does not generate comparable revenue.
+- Other cities generate significantly lower revenue compared to the top-performing cities. In both 2018 and 2019, Tirupati leads in revenue despite having fewer restaurants, likely due to its strong tourism-driven demand in Andhra Pradesh.
+- Bareilly and Sultanpur, both located in Uttar Pradesh, ranked as the top cities in 2017 and 2020. Among these two, Bareilly has a higher restaurant count compared to Sultanpur.
 
 <img width="552" height="231" alt="image" src="https://github.com/user-attachments/assets/5b7dda5b-a0eb-4657-b7dc-37c71d3c247e" />
 
@@ -51,10 +50,10 @@ Below is the overview page from PowerBI dashboard and more examples includes in 
 
 Based on the uncovered insights, the following recommendations have been provided:
 
-- Most of the orders are placed by Students and Employyes with 160k & 92k orders, self employeed and house wife orders very low comapered to students,to attract house wife bring offers on **womens special like dicount 25% on every order, which order having above 1,000 rupees.**
-- In every week saturday's and sunday's orders with 1k and below 1k, **womens special offers active on sunday and saturday so we can increase both the orders and hosue wife sales in Swiggy**.
-- In Swiggy most of the restaurants have 4 star rating, get review from customer who frequently orders and suggest the reviews to restaurants which below 4 star rating in swiggy, so we cannot loss the restaurants and customers.
-- **Continue and push forward the loyalty program**, to convert non-customers into customers, conserding offers in one time sign-up and giving first three orders discount to customer, and for old customers make an offer on saturday's and sunday's to increase orders and we cannot losses the old customers.
+- Students and employees place the highest number of orders (160k and 92k respectively). Orders from self-employed customers and housewives are significantly lower. To attract more orders from housewives, Swiggy can introduce “Women’s Special” offers, such as a 25% discount on orders above ₹1,000.
+- eekly order trends show strong activity on Saturdays and Sundays, with many orders both below and above ₹1,000. Activating the “Women’s Special Weekend Offer” specifically on Saturdays and Sundays can help increase weekend sales and boost engagement from housewives.
+-A majority of Swiggy restaurants have 4-star ratings. Swiggy should collect feedback from frequent customers and share insights with restaurants rated below 4 stars. This will help improve service quality and reduce customer and restaurant churn.
+- Swiggy should continue strengthening its loyalty program to convert non-customers into active customers. Offering one-time sign-up rewards, discounts on the first three orders, and exclusive weekend deals for existing customers can increase retention and ensure long-term loyalty.
 
 
 
